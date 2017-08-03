@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.go.androidpractice.Main2Activity">
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OOOOATEHEAJTHAEJKTHEAKJTAEJKTHAEHJ"
+        tools:layout_editor_absoluteX="144dp"
+        tools:layout_editor_absoluteY="146dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="190dp" />
+
+    <Button
+        android:id="@+id/goback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/t1"
+        android:layout_alignStart="@+id/t1"
+        android:layout_below="@+id/t1"
+        android:layout_marginLeft="83dp"
+        android:layout_marginStart="83dp"
+        android:layout_marginTop="68dp"
+        android:text="Button" />
+</RelativeLayout>

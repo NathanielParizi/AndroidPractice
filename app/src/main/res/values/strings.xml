@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidPractice</string>
+    <string name="FIRE">Android</string>
+    <string name="fire">FIRE</string>
+    <string name="nitro">NITRO</string>
+    <string name="ice">ICE</string>
+    <string name="elements">ELEMENTS</string>
+    <string name="HTML">This is the THING that is going to be clickable</string>
+    <string name="THING">THING</string>
+</resources>

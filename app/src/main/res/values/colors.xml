@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff3a54</color>
+    <color name="KIWI">#1eff00</color>
+    <color name="CLEAR">#00000000</color>
+    <color name="MELON">#bcbbffbf</color>
+    <color name="colorPrimaryDark">#00ff0d</color>
+    <color name="colorAccent">#ff3e5e</color>
+</resources>
